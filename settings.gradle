@@ -1,0 +1,6 @@
+include ':app',
+        ':dmusicskin0', ':dmusicskin1', ':dmusicskin2', ':dmusicskin3', ':dmusicskin4',
+        ':dmusicskin5', ':dmusicskin6', ':dmusicskin7', ':dmusicskin8', ':dmusicskin9',
+        ':dmusicskin10', ':dmusicskin11', ':dmusicskin12', ':dmusicskin13', ':dmusicskin14',
+        ':dmusicskin15', ':dmusicskin16', ':dmusicskin17'
+
